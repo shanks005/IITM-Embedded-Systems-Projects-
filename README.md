@@ -25,7 +25,7 @@ Implements a continuously repeating traffic-light sequence using three digital o
 - **Project files:** [Download the project archive](./Traffic%20Light%20LEDs%20-%20Arduino%20-%20Template.zip)
 - **Simulation:** [Run on Wokwi](https://wokwi.com/projects/402288038898644993)
 
-![Temperature LED bar graph simulation](./Temperature_LED_Bargraph.png)
+![Temperature LED bar graph simulation](https://github.com/shanks005/IITM-Embedded-Systems-Projects-/blob/main/Traffic%20Light%20Controller.png)
 
 ### 2. 4-Bit Binary LED Counter
 
@@ -36,7 +36,7 @@ Creates a four-bit LED counter with a complete 16-second cycle. Each LED toggles
 - **Project files:** [Download the project archive](./4-bit%20Binary%20LED%20-%20Template.zip)
 - **Simulation:** [Run on Wokwi](https://wokwi.com/projects/402325228669071361)
 
-![Temperature LED bar graph simulation](./Temperature_LED_Bargraph.png)
+![Temperature LED bar graph simulation](https://github.com/shanks005/IITM-Embedded-Systems-Projects-/blob/main/4%20Bit%20Binary%20LED_V1.png)
 
 ### 3. Temperature LED Bar Graph
 
