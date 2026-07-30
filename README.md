@@ -21,7 +21,7 @@ A collection of embedded-systems projects developed using Arduino, the ATmega328
 Implements a continuously repeating traffic-light sequence using three digital outputs. The green, yellow, and red LEDs are activated for 1 s, 0.2 s, and 1 s, respectively.
 
 - **Concepts:** Digital GPIO and sequential timing
-- **Pins:** Greenâ€”D13, yellowâ€”D12, redâ€”D11
+- **Pins:** Green D13, yellow D12, red D11
 - **Project files:** [Download the project archive](./Traffic%20Light%20LEDs%20-%20Arduino%20-%20Template.zip)
 - **Simulation:** [Run on Wokwi](https://wokwi.com/projects/402288038898644993)
 
@@ -30,7 +30,7 @@ Implements a continuously repeating traffic-light sequence using three digital o
 Creates a four-bit LED counter with a complete 16-second cycle. Each LED toggles independently using `millis()`, allowing the program to operate without blocking delay calls.
 
 - **Concepts:** Non-blocking timing and concurrent output control
-- **Pins:** D13â€“D10, representing the most significant to least significant bit
+- **Pins:** D13 to D10, representing the most significant to least significant bit
 - **Project files:** [Download the project archive](./4-bit%20Binary%20LED%20-%20Template.zip)
 - **Simulation:** [Run on Wokwi](https://wokwi.com/projects/402325228669071361)
 
@@ -108,14 +108,6 @@ Demonstrates the STM32 project workflow by configuring three GPIO pins as digita
 
 Each archive contains the source code, `diagram.json`, project-specific documentation, and the original Wokwi project reference.
 
-## Repository Structure
-
-```text
-.
-â”œâ”€â”€ *.zip    # Source code, Wokwi circuit description, and project notes
-â”œâ”€â”€ *.png    # Simulation and output images
-â””â”€â”€ README.md
-```
 
 ## Author
 
