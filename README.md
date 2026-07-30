@@ -6,9 +6,9 @@ A collection of embedded-systems projects developed using Arduino, the ATmega328
 
 | Project | Platform | Key concepts | Simulation |
 |---|---|---|---|
-| [Traffic Light Controller](#1-traffic-light-controller) | Arduino | GPIO, sequential control, timing | [Run on Wokwi](https://wokwi.com/projects/402288038898644993) |
-| [4-Bit Binary LED Counter](#2-4-bit-binary-led-counter) | Arduino | Non-blocking timing, `millis()` | [Run on Wokwi](https://wokwi.com/projects/402325228669071361) |
-| [Temperature LED Bar Graph](#3-temperature-led-bar-graph) | Arduino | ADC, NTC sensing, data quantization | [Run on Wokwi](https://wokwi.com/projects/402372372370534401) |
+| [Traffic Light Controller](#1-traffic-light-controller) | Arduino | GPIO, sequential control, timing | [Run on Wokwi](https://wokwi.com/projects/470977755490312193) |
+| [4-Bit Binary LED Counter](#2-4-bit-binary-led-counter) | Arduino | Non-blocking timing, `millis()` | [Run on Wokwi](https://wokwi.com/projects/470977327677496321) |
+| [Temperature LED Bar Graph](#3-temperature-led-bar-graph) | Arduino | ADC, NTC sensing, data quantization | [Run on Wokwi](https://wokwi.com/projects/470977443880716289) |
 | [RGB LED Controller](#4-rgb-led-controller) | Arduino | User input, debouncing, state control | [Run on Wokwi](https://wokwi.com/projects/403450329010273281) |
 | [ATmega328P Timer in CTC Mode](#5-atmega328p-timer-in-ctc-mode) | ATmega328P | Timer2, CTC mode, prescaling, ISR | [Run on Wokwi](https://wokwi.com/projects/413931819010252801) |
 | [Dual-Servo Control using Timer2](#6-dual-servo-control-using-timer2) | ATmega328P | Phase-correct PWM, pulse-width mapping | [Run on Wokwi](https://wokwi.com/projects/414015523297727489) |
