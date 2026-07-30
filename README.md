@@ -40,7 +40,7 @@ Reads an NTC thermistor through the ADC, converts the measured value to temperat
 
 - **Concepts:** Analog acquisition, thermistor conversion, scaling, and quantization
 - **Sensor input:** A0
-- **LED outputs:** D4â€“D13
+- **LED outputs:** Pins D13
 - **Project files:** [Download the project archive](./_Temperature%20LED%20Bargraph%20-%20Template.zip)
 - **Simulation:** [Run on Wokwi](https://wokwi.com/projects/402372372370534401)
 
