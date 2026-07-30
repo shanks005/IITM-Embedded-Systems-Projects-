@@ -14,3 +14,7 @@ The LEDs should light up proportionally to the temperature, ranging from -24°C 
 ### Example:
 - If the temperature is at the minimum (-24°C), no LEDs should be lit.
 - If the temperature is at the maximum (80°C), all 10 LEDs should be lit.
+
+### Circuit Diagram:
+![Temperate LED Bargraph using STM32](
+
